@@ -18,7 +18,7 @@ public final class JavaLoggingClientLibraryTest {
 
   @Test
   public void testHello() throws Exception {
-    System.out.println("Hello Java!");
+    System.out.println("Hello Jav!");
   }
 
   @Test
